@@ -21,9 +21,9 @@
   --dplus-backdrop: url(https://i.imgur.com/3AiL3yN.png);
 
 /* Accent color, used to decorate the UI with colors. */
-  --dplus-accent-color-hue: 320;
-  --dplus-accent-color-saturation: 60%;
-  --dplus-accent-color-lightness: 31%;
+  --dplus-accent-color-hue: 2;
+  --dplus-accent-color-saturation: 99%;
+  --dplus-accent-color-lightness: 57%;
 
 /* Foreground color: For things like text and icons. */
   --dplus-foreground-color-hue-base: 210;
@@ -60,9 +60,9 @@
 :root {
 /* Fonts */
 /* You can use any installed font on your device. */
-  --dplus-font-ui: 'Poppins';
-  --dplus-font-body: 'Roboto';
-  --dplus-font-header: 'Righteous';
+  --dplus-font-ui: 'Uni Sans Heavy';
+  --dplus-font-body: 'Uni Sans Heavy';
+  --dplus-font-header: 'Uni Sans Heavy';
 
 /* Round corner sizes, measured in pixel radius.
 Set avatar/server radius to 50% to make them circular.
@@ -78,9 +78,9 @@ Set avatar/server radius to 50% to make them circular.
    --dplus-spacing-app: 10px;
 
 /* Size of user and server icons */
---dplus-icon-avatar-chat: 64px;
---dplus-icon-avatar-list: 32px;
---dplus-icon-avatar-profile: 80px;
+--dplus-icon-avatar-chat: 40px;
+--dplus-icon-avatar-list: 30px;
+--dplus-icon-avatar-profile: 68px;
 
 --dplus-icon-server-sidebar: 48px;
 --dplus-icon-server-list: 32px;
